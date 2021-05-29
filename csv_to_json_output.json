@@ -1,0 +1,688 @@
+[
+  {
+    "@timestamp": "2021-04-01T00:01:33.602+00:00",
+    "total_results": 267.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:33.783+00:00",
+    "total_results": 12.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:34.080+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:34.105+00:00",
+    "total_results": 9.0,
+    "ws_call": "getArticles",
+    "searchType": 99.0,
+    "searchQuery": "2034701641"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:34.122+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:34.152+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "26980 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:34.170+00:00",
+    "total_results": 6.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:34.691+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:35.019+00:00",
+    "total_results": 573.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:35.065+00:00",
+    "total_results": 3.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:36.107+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30130 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:36.108+00:00",
+    "total_results": 7.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:36.167+00:00",
+    "total_results": 19.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:36.340+00:00",
+    "total_results": 22.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:36.356+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:36.693+00:00",
+    "total_results": 1110.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:36.957+00:00",
+    "total_results": 25407.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:36.990+00:00",
+    "total_results": 191612.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:37.316+00:00",
+    "total_results": 527.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:37.335+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30141 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:37.811+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "JT1770"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:37.844+00:00",
+    "total_results": 95.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:37.854+00:00",
+    "total_results": 3244.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:38.117+00:00",
+    "total_results": 160.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:38.129+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30155 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:38.173+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30156 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:38.242+00:00",
+    "total_results": 527.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:38.259+00:00",
+    "total_results": 2930326.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:38.264+00:00",
+    "total_results": 3.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30158 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:38.302+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30160 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:38.342+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:39.510+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30175 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:39.512+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:39.522+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": "32106798896"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:39.641+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30178 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:39.681+00:00",
+    "total_results": 3.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30179 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:40.516+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:40.642+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30192 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:40.889+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30194 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:40.933+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30195 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:40.989+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:41.168+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30201 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:41.265+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:41.438+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:41.614+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:41.636+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30206 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:41.683+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30207 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:41.822+00:00",
+    "total_results": 23.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:41.846+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "23670683"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:41.897+00:00",
+    "total_results": 75301.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:42.030+00:00",
+    "total_results": 773.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:42.056+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30213 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:42.058+00:00",
+    "total_results": 82.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:42.070+00:00",
+    "total_results": 96.0,
+    "ws_call": "getArticles",
+    "searchType": 3.0,
+    "searchQuery": "13046059352"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:42.102+00:00",
+    "total_results": 4.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:42.736+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:42.819+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30221 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:42.877+00:00",
+    "total_results": 3.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:43.260+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30229 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:43.311+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30230 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:43.318+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:43.351+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30231 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:43.389+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30232 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:43.398+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:43.806+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30242 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:43.814+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:43.846+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30244 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:43.893+00:00",
+    "total_results": 1413.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.162+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.274+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30254 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.312+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30255 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.327+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.336+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "MOS129"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.390+00:00",
+    "total_results": 1065.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.434+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30518 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.435+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.468+00:00",
+    "total_results": 2626.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.764+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.790+00:00",
+    "total_results": 122.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.803+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "30919 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:44.994+00:00",
+    "total_results": 16.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:45.662+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "33447 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:45.680+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:45.703+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "33448 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:45.841+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "33594 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:45.895+00:00",
+    "total_results": 3.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:46.798+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:46.812+00:00",
+    "total_results": 49.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:47.436+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "33620 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:47.451+00:00",
+    "total_results": 2137.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:47.478+00:00",
+    "total_results": 82.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:47.559+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "33622 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:47.571+00:00",
+    "total_results": 305.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:47.811+00:00",
+    "total_results": 15.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:47.867+00:00",
+    "total_results": 1.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "33625 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:47.908+00:00",
+    "total_results": 54.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:48.204+00:00",
+    "total_results": 2.0,
+    "ws_call": "getArticles",
+    "searchType": 10.0,
+    "searchQuery": "33629 01"
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:48.253+00:00",
+    "total_results": 0.0,
+    "ws_call": "getArticles",
+    "searchType": null,
+    "searchQuery": null
+  }
+]

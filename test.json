@@ -1,0 +1,102 @@
+[
+  {
+    "@timestamp": "2021-04-01T00:01:39.681+00:00",
+    "total_results": 3,
+    "ws_call": "getArticles",
+    "ws_request_json": {
+      "getArticles": {
+        "articleCountry": "DE",
+        "provider": 22395,
+        "searchQuery": "30179 01",
+        "searchType": 10,
+        "searchMatchType": "exact",
+        "legacyArticleIds": [],
+        "dataSupplierIds": [
+          35
+        ],
+        "genericArticleIds": [
+          191
+        ],
+        "assemblyGroupNodeIds": [],
+        "criteriaFilters": [
+          {}
+        ],
+        "lang": "de",
+        "sort": [],
+        "includeAll": true,
+        "includeMisc": false,
+        "includeGenericArticles": false,
+        "includeArticleText": false,
+        "includeGTINs": false,
+        "includeTradeNumbers": false,
+        "includeOEMNumbers": false,
+        "includeReplacesArticles": false,
+        "includeReplacedByArticles": false,
+        "includeArticleCriteria": false,
+        "includeLinkages": false,
+        "includePDFs": false,
+        "includeImages": false,
+        "includeDataSupplierFacets": false,
+        "includeGenericArticleFacets": false,
+        "assemblyGroupFacetOptions": {
+          "enabled": false,
+          "includeCompleteTree": false
+        },
+        "includeCriteriaFacets": false,
+        "includeComparableNumbers": false,
+        "includeLinks": false,
+        "includePrices": false
+      }
+    }
+  },
+  {
+    "@timestamp": "2021-04-01T00:01:33.783+00:00",
+    "total_results": 12,
+    "ws_call": "getArticles",
+    "ws_request_json": {
+      "getArticles": {
+        "articleCountry": "DE",
+        "provider": 22395,
+        "searchQuery": "2034701641",
+        "searchType": 99,
+        "searchMatchType": "exact",
+        "legacyArticleIds": [],
+        "dataSupplierIds": [
+          35
+        ],
+        "genericArticleIds": [
+          191
+        ],
+        "assemblyGroupNodeIds": [],
+        "criteriaFilters": [
+          {}
+        ],
+        "lang": "de",
+        "sort": [],
+        "includeAll": true,
+        "includeMisc": false,
+        "includeGenericArticles": false,
+        "includeArticleText": false,
+        "includeGTINs": false,
+        "includeTradeNumbers": false,
+        "includeOEMNumbers": false,
+        "includeReplacesArticles": false,
+        "includeReplacedByArticles": false,
+        "includeArticleCriteria": false,
+        "includeLinkages": false,
+        "includePDFs": false,
+        "includeImages": false,
+        "includeDataSupplierFacets": false,
+        "includeGenericArticleFacets": false,
+        "assemblyGroupFacetOptions": {
+          "enabled": false,
+          "includeCompleteTree": false
+        },
+        "includeCriteriaFacets": false,
+        "includeComparableNumbers": false,
+        "includeLinks": false,
+        "includePrices": false
+      }
+    }
+  }
+]
